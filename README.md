@@ -52,7 +52,7 @@ protoc --go_out=. --go-grpc_out=. test.proto
 
 脚本执行后的结果如下图所示：
 
-<img src="C:\Users\13219\AppData\Roaming\Typora\typora-user-images\image-20240506151108461.png" alt="image" style="float:left; margin-right:10px;" />
+<img src="image.png" alt="image" style="float:left; margin-right:10px;" />
 
 ## 3 实现服务器
 
